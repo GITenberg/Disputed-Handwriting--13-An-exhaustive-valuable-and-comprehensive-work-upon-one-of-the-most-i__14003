@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5325'
     url: http://www.gutenberg.org/2009/agents/5325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14003#Disputed-Handwriting--13-An-exhaustive-valuable-and-comprehensive-work-upon-one-of-the-most-i_
 gutenberg_issued: '2004-11-10'
 gutenberg_type: Text
 identifiers:
