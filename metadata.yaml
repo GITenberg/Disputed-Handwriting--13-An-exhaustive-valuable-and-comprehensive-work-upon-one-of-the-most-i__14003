@@ -1,0 +1,30 @@
+_repo: Disputed-Handwriting--13-An-exhaustive-valuable-and-comprehensive-work-upon-one-of-the-most-i__14003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lavay, Jerome Buell
+    alias: Lavay, Jerome B.
+    birthdate: 1860
+    gutenberg_agent_id: '5325'
+    url: http://www.gutenberg.org/2009/agents/5325
+description: ''
+gutenberg_issued: '2004-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Writing -- Identification'
+- !lcc 'HV'
+- !lcsh 'Forgery'
+- !lcsh 'Graphology'
+title: "Disputed Handwriting\r\nAn exhaustive, valuable, and comprehensive work upon\
+  \ one of the most important subjects of to-day. With illustrations and expositions\
+  \ for the detection and study of forgery by handwriting of all kinds"
+url: http://www.gutenberg.org/ebooks/14003
